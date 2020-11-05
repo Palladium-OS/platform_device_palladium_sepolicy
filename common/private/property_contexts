@@ -11,3 +11,5 @@ persist.sys.theme.systemuicolor                u:object_r:theme_prop:s0
 persist.sys.theme.systemuicolordark            u:object_r:theme_prop:s0
 persist.sys.theme.notifcolor                   u:object_r:theme_prop:s0
 persist.sys.theme.notifcolordark               u:object_r:theme_prop:s0
+
+persist.wfd.legacy.video.mode u:object_r:wfd_legacy_video_mode_prop:s0
